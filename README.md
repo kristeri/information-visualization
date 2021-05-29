@@ -1,1 +1,2 @@
-# information-visualization
+# Information visualization
+Information visualization course work.
